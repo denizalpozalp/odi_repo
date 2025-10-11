@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-9"?>
+<?xml version="1.0" encodinsg="ISO-8859-9"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
 <Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="uXTWciQNK8nIo3xByrFZpw==" exportKeySalt="5d9edc1c-f615-4215-b7f8-ffb8de46e143" containsCipherText="false"/>
