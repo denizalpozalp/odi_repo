@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="ISO-8859-9"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
+<<<<<<< HEAD
 <Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="yPCF0Z1grk2z9U9WBgbV5w==" exportKeySalt="91dec30c-c4ab-49a3-a953-220c6cc86113" containsCipherText="false"/>
+=======
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="jEwdDZbt1L6tEm2QCR9WgQ==" exportKeySalt="36c5f201-676e-4348-9136-f0999cece234" containsCipherText="false"/>
+>>>>>>> 8ff134f (ODI export: MailTest klasörü güncellendi)
 <Object class="com.sunopsis.dwg.dbobj.SnpMapping">
 		<Field name="BusinessName" type="java.lang.String">null</Field>
 	<Field name="Descript" type="java.lang.String">null</Field>
